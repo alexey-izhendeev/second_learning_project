@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+my_venv
+*.sh
+my_venv/mail.py
+*.pyc
+*~
+__pycache__
+db.sqlite3
+/static
+.DS_Store
